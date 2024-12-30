@@ -112,4 +112,3 @@ This project is licensed under the MIT License.
 - [Google OAuth 2.0](https://developers.google.com/identity/protocols/oauth2)
 - [Passport.js Documentation](http://www.passportjs.org/docs/)
 - [Mongoose](https://mongoosejs.com/)
-```
